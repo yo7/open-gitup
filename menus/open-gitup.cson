@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Open GitUp'
+      'command': 'open-gitup:open'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Open GitUp'
+      'submenu': [
+        {
+          'label': 'Open'
+          'command': 'open-gitup:open'
+        }
+      ]
+    ]
+  }
+]
