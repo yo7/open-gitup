@@ -2,7 +2,7 @@
 
 Atom package to open editting file's project on GitUp ! :octocat:
 
-<a href="https://gyazo.com/ebc0160cef6d77ba3ef2be49568b1f11"><img src="https://i.gyazo.com/ebc0160cef6d77ba3ef2be49568b1f11.gif" /></a>
+<a href="https://gyazo.com/4826d817d57cee26c240cd41f141a29e"><img src="https://i.gyazo.com/4826d817d57cee26c240cd41f141a29e.gif" /></a>
 
 ## What you need
 
