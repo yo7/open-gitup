@@ -1,2 +1,2 @@
 'atom-workspace':
-  'ctrl-alt-o': 'open-gitup:open'
+  'ctrl-alt-g': 'open-gitup:open'
