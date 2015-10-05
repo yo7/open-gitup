@@ -1,3 +1,3 @@
 ## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+- Open current file's project on GitUp
+- Notify error if no repo focused

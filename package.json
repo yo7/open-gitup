@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Open GitUp from Atom !",
   "keywords": [
-    "git", "GitUp", "Github", "VCS"
+    "git", "GitUp", "GitHub", "VCS"
   ],
   "activationCommands": {
     "atom-workspace": "open-gitup:open"

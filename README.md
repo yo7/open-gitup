@@ -1,5 +1,20 @@
-# open-gitup package
+# Open GitUp
 
-A short description of your package.
+Atom package to open editting file's project on GitUp ! :octocat:
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+<a href="https://gyazo.com/ebc0160cef6d77ba3ef2be49568b1f11"><img src="https://i.gyazo.com/ebc0160cef6d77ba3ef2be49568b1f11.gif" /></a>
+
+## What you need
+
+- mac OS X
+- GitUp.app
+- Command Line Tool for GitUp
+
+## Keymap
+
+You can change keymap by editting `keymap.cson`. This is default keymap :
+
+```
+'atom-workspace':
+  'ctrl-alt-g': 'open-gitup:open'
+```
