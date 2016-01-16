@@ -21,4 +21,4 @@ module.exports = OpenGitup =
         if !filePath || !projectPaths
           atom.notifications.addError('No repository found')
         else if filePath.match(rPath)
-          exec('gitup', {cwd: path})
+          exec("open -a GitUp.app '#{path}'")
