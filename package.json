@@ -1,7 +1,7 @@
 {
   "name": "open-gitup",
   "main": "./lib/open-gitup",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Open GitUp from Atom",
   "keywords": [
     "git",
